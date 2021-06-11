@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS003RezistoryCelkovyOdpor/1.0.0": {
+        "runtime": {
+          "CS003RezistoryCelkovyOdpor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS003RezistoryCelkovyOdpor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

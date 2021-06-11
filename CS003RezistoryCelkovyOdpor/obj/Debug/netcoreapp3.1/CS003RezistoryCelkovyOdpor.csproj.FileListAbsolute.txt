@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\bin\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS003RezistoryCelkovyOdpor\CS003RezistoryCelkovyOdpor\obj\Debug\netcoreapp3.1\CS003RezistoryCelkovyOdpor.genruntimeconfig.cache
